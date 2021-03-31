@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ES6, React and Redux**
 
-- 👨‍💻 All of my projects are available at [siam.netlify.app](siam.netlify.app)
+- 👨‍💻 All of my projects are available at [siam.netlify.app](https://siam.netlify.app)
 
 - 📝 I regularly write articles on [https://wirebd.com](https://wirebd.com)
 
