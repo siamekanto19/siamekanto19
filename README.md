@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [siam.netlify.app](https://siam.netlify.app)
 
-- 📝 I regularly write articles on [https://wirebd.com](https://wirebd.com)
-
 - 💬 Ask me about **Vuejs and TailwindCSS**
 
 - 📫 How to reach me **siamekanto360@gmail.com**
