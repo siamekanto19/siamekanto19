@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siamekanto360@gmail.com**
 
-- ✨Fun fact **99% of the time, you don't really need Redux**
+- ✨ Fun fact **99% of the time, you don't really need Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
