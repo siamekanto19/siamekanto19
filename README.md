@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Siam</h1>
-<h3 align="center">A Passionate Web Developer from Southern Bangladesh</h3>
+<h3 align="center">Passionate Web Application Developer from Southern Bangladesh</h3>
 
-- 🔭 I’m currently working on **Mini Projects with React and Nodejs**
+- 🔭 I’m currently working on **Projects with React and Next.js**
 
-- 🌱 I’m currently learning **TypeScript,NextJS, Gatsby and Framer Motion**
+- 🌱 I’m currently learning **Hono, Bun and Nuxt**
 
-- 👯 I’m looking to collaborate on **Any Intermediate Project with JavaScript 🙌**
+- 👯 I’m looking to collaborate on **SaaS Applications built on Next.js and Typescript**
 
-- 🤝 I’m looking for help with **ES6, React and Redux**
+- 🤝 I’m looking for help with **Nest.js, MongoDB and Node.js**
 
 - 👨‍💻 All of my projects are available at [siam.netlify.app](https://siam.netlify.app)
 
-- 💬 Ask me about **Vuejs and TailwindCSS**
+- 💬 Ask me about **React and TailwindCSS**
 
 - 📫 How to reach me **siamekanto360@gmail.com**
 
-- ✨Fun fact **I think Redux is the most painful thing to deal with.**
+- ✨Fun fact **99% of the time, you don't really need Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
